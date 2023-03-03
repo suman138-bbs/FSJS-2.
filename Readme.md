@@ -24,6 +24,6 @@
 
 ## Java Script Projects
 
-**Change Background Color**
+**Change Background Color onclick**
 
 [link](https://cbackgrond.netlify.app/)
